@@ -1,0 +1,88 @@
+Copyright (c) 2026 Muteki (https://github.com/muteki-cybersec)
+
+This repository contains materials under two different sets of terms.
+Section 1 covers the source code. Section 2 covers the artwork.
+Section 3 explains what is NOT claimed.
+
+
+================================================================================
+1. SOURCE CODE: MIT LICENSE
+================================================================================
+
+This section applies ONLY to the HTML, CSS and JavaScript source code in this
+repository, including index.html (the "Software"). It does NOT apply to the
+Artwork defined in Section 2.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the Software and associated documentation files, to deal in the Software
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+================================================================================
+2. ARTWORK: ALL RIGHTS RESERVED
+================================================================================
+
+"Muteki Artwork" means the original composite design created by Muteki,
+consisting of:
+
+  (a) the hexagonal arrangement of six connected nodes and the lines joining
+      them;
+  (b) the selection, arrangement and placement of the surrounding elements
+      around that hexagon, and their relation to the nodes;
+  (c) the visual styling of the nodes, lines and overall composition; and
+  (d) every file embodying the above, including logo.png and project.png, and
+      any source, vector, resized, recolored or otherwise converted version.
+
+The Muteki Artwork is NOT licensed under the MIT License or under any other
+open license.
+
+Copyright (c) 2026 Muteki. All Rights Reserved.
+
+Without prior written permission from the copyright owner, you may NOT:
+
+  - copy, reproduce, re-host, redistribute or publicly display the Muteki
+    Artwork;
+  - redraw, trace, recreate or otherwise reproduce its composition, even if
+    produced from scratch with different tools;
+  - create derivative works or substantially similar recreations of it;
+  - use it, or a copy or recreation of it, as your own logo, avatar, emblem or
+    branding, or present it as your own work.
+
+Viewing and forking this repository on GitHub is permitted only to the extent
+provided by the GitHub Terms of Service. That permission grants no license to
+use the Muteki Artwork anywhere else or for any other purpose.
+
+Unauthorized use may be reported to the hosting platform (including through a
+notice under 17 U.S.C. 512 / the DMCA) and pursued under applicable law.
+
+To request permission, contact the owner through the details on
+https://muteki-cybersec.github.io/
+
+
+================================================================================
+3. THIRD-PARTY MARKS: NOT CLAIMED
+================================================================================
+
+The Muteki Artwork displays names or logos of third-party projects: Session,
+Monero, Mullvad VPN, Tor Browser, Bitwarden and Tails.
+
+These marks and logos belong to their respective owners. Muteki claims no
+copyright, trademark or other rights in them, and nothing in this repository
+licenses or grants any rights in them. They appear only to reference the tools
+and projects they identify, and their presence does not imply affiliation with,
+or endorsement by, their owners. Any use of those marks is governed by the
+terms of their respective owners.
